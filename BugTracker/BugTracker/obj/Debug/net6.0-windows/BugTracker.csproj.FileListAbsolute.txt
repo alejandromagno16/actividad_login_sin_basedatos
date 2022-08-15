@@ -1,0 +1,17 @@
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net6.0-windows\BugTracker.exe
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net6.0-windows\BugTracker.deps.json
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net6.0-windows\BugTracker.runtimeconfig.json
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net6.0-windows\BugTracker.dll
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\bin\Debug\net6.0-windows\BugTracker.pdb
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\BugTracker.csproj.AssemblyReference.cache
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\BugTracker.frmLogin.resources
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\BugTracker.csproj.GenerateResource.cache
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\BugTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\BugTracker.AssemblyInfoInputs.cache
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\BugTracker.AssemblyInfo.cs
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\BugTracker.csproj.CoreCompileInputs.cache
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\BugTracker.dll
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\refint\BugTracker.dll
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\BugTracker.pdb
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\BugTracker.genruntimeconfig.cache
+C:\Users\usuario\actividad_login_sin_basedatos\BugTracker\BugTracker\obj\Debug\net6.0-windows\ref\BugTracker.dll
